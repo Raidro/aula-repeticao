@@ -18,8 +18,8 @@ for (let i = numero1; i <= numero2; i++) {
 
 
     numero += i + ', ';
-    
+    soma += (i + i) / 2;
 }
 
 
-alert(numero);
+alert(numero + '\nA soma: ' + soma);
