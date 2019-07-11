@@ -1,10 +1,10 @@
 let numero = parseInt(prompt('Entre com a Tabuada: '));
-let resultado = ''; // começa com vazio
+let resultado = '';
 
 
 for (var i = 1; i <= 10; i++) {
     let mult = numero * i;
-    resultado += numero + ' X ' + i + ' = ' + mult + '\n'; // resultado recebe uma string, tudo que tpa depois do "+=" "vai ser sting"
+    resultado += numero + ' X ' + i + ' = ' + mult + '\n';
 
 }
 alert(resultado);
