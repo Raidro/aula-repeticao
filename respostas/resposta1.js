@@ -12,6 +12,6 @@ for (let i = 0; i <= 100; i++) {
         alert('nota invalida! por favor entre com uma nota valida!');
     }
 
-    i += i;
+   
 
 }

@@ -10,6 +10,5 @@ for (let i = 0; i <= 100; i++) {
     } else {
         alert('Cadastro Efetuado!');
     }
-
-    i += i;
+    
 }

@@ -39,7 +39,7 @@ for (let i = 0; i <= 1; i++) {
         numero2 = auxiliar;
     }
 
-    alert('O Maior numero é: '+ numero5);
+    alert('O Maior numero é: ' + numero5);
 
 }
 

@@ -14,15 +14,11 @@ for (let i = 0; i <= 100; i++) {
 
     if (paisA <= paisB) {
 
-        paisA = paisA + (paisA * taxaA);
-        paisB = paisB + (paisB * taxaB);
-        ano += 1;
-
-    } else {
-
-        alert('Levou ' + ano + ' Anos');
+        paisA += paisA * taxaA;
+        paisB += paisB * taxaB;
+        ano++
 
     }
-
-    i += i;
 }
+
+alert('Levou ' + ano + ' Anos');
