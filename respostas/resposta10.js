@@ -20,7 +20,7 @@ for (let i = numero1; i <= numero2; i++) {
 
 
     numero += i + ', ';
-    
+
 }
 
 
