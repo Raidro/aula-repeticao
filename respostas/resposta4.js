@@ -13,10 +13,10 @@ for (let i = 1; i <= 100; i++) {
         paisB += paisB * taxaB;
         ano++;
 
-    }else {
+    } else {
         break;
     }
-    
+
 }
 
 alert('Levou ' + ano + ' Anos');

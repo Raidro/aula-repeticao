@@ -11,7 +11,7 @@ for (let i = 0; i < 15; i++) {
         resultado += '\n' + atual;
         n2 = n1;
         n1 = atual;
-    } 
+    }
 }
 
 alert(resultado);
