@@ -3,21 +3,21 @@
 
 let numero = parseInt(prompt('Entre com o numero para fazer o fatorial: '));
 
-let fatorial;
+let fatorial = 1;
 
 
-for (fatorial = 1; numero > 1; numero--) {
+for (let i = 1; i <= numero; i++) {
 
     if (numero > 0 && numero < 16) {
 
-        fatorial = fatorial * numero;
+        fatorial = fatorial * i;
 
     } else {
 
         alert('Fatorial tem que ser positivo e menor que 16')
+        break;
     }
-
+    alert(fatorial);
 }
 
 
-alert(fatorial);
