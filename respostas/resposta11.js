@@ -1,4 +1,6 @@
 
+//Altere o programa anterior para mostrar no final a soma dos números.
+
 let numero1 = parseFloat(prompt('Digite N1: '));
 let numero2 = parseFloat(prompt('Digite N2: '));
 let numero = '';

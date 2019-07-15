@@ -1,4 +1,7 @@
 
+
+//Altere o programa anterior para que ele aceite apenas números entre 0 e 1000.
+
 let auxiliar = 0;
 let soma = 0;
 

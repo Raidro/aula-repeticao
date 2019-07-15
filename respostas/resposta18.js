@@ -1,4 +1,7 @@
 
+
+//Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.
+
 let auxiliar = 0;
 let soma = 0;
 for (let i = 0; i <= 1; i++) {

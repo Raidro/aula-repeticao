@@ -1,4 +1,6 @@
 
+//Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
+
 for (let i = 0; i <= 100; i++) {
 
     let nota = parseInt(prompt('Entre com uma nota: '));
