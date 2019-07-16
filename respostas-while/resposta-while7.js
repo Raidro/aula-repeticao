@@ -9,7 +9,7 @@ let numero5 = parseFloat(prompt('Digite N5: '));
 
 
 while (numero5 < numero1 && numero5 < numero4 && numero5 < numero3 && numero5 < numero2 && numero5 < numero1) {
-    
+
     if (numero1 > numero2) {
         auxiliar = numero1;
         numero1 = numero2;
