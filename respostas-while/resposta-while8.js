@@ -1,3 +1,6 @@
+
+//Faça um programa que leia 5 números e informe o maior número.
+
 let numero1 = parseFloat(prompt('Digite N1: '));
 let numero2 = parseFloat(prompt('Digite N2: '));
 let numero3 = parseFloat(prompt('Digite N3: '));

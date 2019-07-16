@@ -1,4 +1,6 @@
 
+//Faça um programa que leia 5 números e informe o maior número.
+
 let auxiliar = 0;
 
 let numero1 = parseFloat(prompt('Digite N1: '));

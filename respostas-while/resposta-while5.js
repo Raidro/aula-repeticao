@@ -1,3 +1,6 @@
+
+//Altere o programa anterior permitindo ao usuário informar as populações e as taxas de crescimento iniciais. Valide a entrada e permita repetir a operação.
+
 let paisA = parseFloat(prompt('Entre com a População de A: '));
 let paisB = parseFloat(prompt('Entre com a População de B: '));
 let ano = 0;
