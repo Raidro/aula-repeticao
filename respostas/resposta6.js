@@ -3,6 +3,7 @@
 
 var numero = '';
 var numero1 = '';
+
 for (let i = 1; i <= 20; i++) {
 
     numero += i + '\n';
